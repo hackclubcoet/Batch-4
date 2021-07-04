@@ -1,4 +1,5 @@
 # simple programe to  login amd view details of a bank account
+# Nabeel-4-atm
 username=input ("Enter the user name")
 # enter the user name
 pin=int(input ("Enter the 6 digit pin"))
